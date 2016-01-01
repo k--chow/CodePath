@@ -7,4 +7,4 @@ Functionality</h3>
 - Launch Screen
 
 
-![alt text](https://raw.githubusercontent.com/k--chow/CodePath/master/final.gif "Final")
+![alt text](https://raw.githubusercontent.com/k--chow/CodePath/master/final2.gif "Final")
